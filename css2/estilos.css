@@ -1,0 +1,30 @@
+footer{
+    background-color: black;
+}
+
+.lead{
+    color: white;
+}
+
+.correo{
+    color: white;
+    padding: 15;
+}
+
+.telefono{
+    color: white;
+    padding: 15;
+}
+
+.com{
+    color: white;
+}
+
+.final{
+    list-style: none;
+    padding: 0;
+}
+
+.sub{
+    padding: 10;
+}
